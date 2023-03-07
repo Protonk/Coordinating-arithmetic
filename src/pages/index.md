@@ -14,6 +14,8 @@ Our goal is to undertake a history of how knowledge communities in engineering c
 
 This research will contribute to understanding of and engagement with students, educators, practitioners, and researchers on the historical antecedents and wider, multi-faceted social contexts of the construction, adoption, and use of numerical computing.
 
+## Investigators
+
 Charlotte P. Lee -- Principal Investigator (https://depts.washington.edu/csclab/)
 
 Adam Hyland -- Research Assistant (https://adampunk.com/)
